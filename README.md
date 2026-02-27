@@ -174,11 +174,10 @@ print(f'Actual class for sample input: {label_encoder.inverse_transform([y_test[
 <img width="814" height="600" alt="image" src="https://github.com/user-attachments/assets/b0cd2ac8-1e05-4e55-953f-c3275cfc7e3f" />
 
 ## Classification Report
-<img width="640" height="446" alt="image" src="https://github.com/user-attachments/assets/3fbf1067-ea4a-4d50-8454-ed5ef27112d6" />
+<img width="817" height="480" alt="Screenshot 2026-02-27 113748" src="https://github.com/user-attachments/assets/06fc7904-0f48-4e32-aedf-8abe881b507c" />
 
 ### New Sample Data Prediction
-<img width="572" height="124" alt="image" src="https://github.com/user-attachments/assets/01327af9-ef31-41cc-bd7b-96e18c4476d3" />
-
+<img width="554" height="54" alt="Screenshot 2026-02-27 113800" src="https://github.com/user-attachments/assets/4351b76d-db86-420f-9bab-2c02dae373f9" />
 
 ## RESULT
 Neural network classification model for the given dataset is successfully developed.
